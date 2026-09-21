@@ -1,0 +1,23 @@
+FAQ 1:
+Question: What are your customer support hours?
+Answer: Our customer support team is available Monday to Friday from 9 AM to 6 PM.
+
+FAQ 2:
+Question: How can I reset my password?
+Answer: Go to the login page, click "Forgot Password", and follow the instructions sent to your registered email address.
+
+FAQ 3:
+Question: How can I cancel my order?
+Answer: You can cancel an order from the Orders section of your account if the order has not yet been shipped.
+
+FAQ 4:
+Question: How can I contact customer support?
+Answer: You can contact our customer support team through email or the customer support portal.
+
+FAQ 5:
+Question: What payment methods do you accept?
+Answer: We accept major credit cards, debit cards, and supported online payment methods.
+
+FAQ 6:
+Question: How can I update my email address?
+Answer: Log in to your account, open Profile Settings, update your email address, and save the changes.
