@@ -1,5 +1,3 @@
-Absolutely. Below is a GitHub-ready `README.md` for your **CrewAI Agentic AI Customer Support** project. It reflects the architecture we've been building: **Streamlit + CrewAI + Local FAQ + Web Search + Local Logging**, with everything initially implemented in a single `app.py`.
-
 ````markdown
 # 🤖 Agentic AI Customer Support using CrewAI
 
